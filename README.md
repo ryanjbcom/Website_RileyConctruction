@@ -1,10 +1,18 @@
 # Website_RileyConstruction
-Html5, css, js, code for srbridge.com/clients/rileycc
+Html5, css, js, code 
 
 Website for a New England Construction Company.
 
+WebSite for:
+
 www.rileyconstruction.com
 
-Website buildout subhosted on:
+Riley Construction Co.
 
-srbridge.com/clients/rileycc
+Copy of the site hosted on: http://www.srbridge.com/clients/rileycc/
+
+=============================
+
+Non framework, hand coded Html 5, Css3, Javascript, Php site.
+
+Website last updated 2015
